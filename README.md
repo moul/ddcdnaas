@@ -8,7 +8,7 @@ init.sh:
 --------
 
 - emballer les cadeaux au milieu de la table avec des numéros
-- écrire des numéros sur autant de petit bout de papier qu’il y a de cadeaux et les donner aux participants, ils indiqueront l’ordre, pour les plus disciplinés, cette étape est facultative
+- écrire des numéros sur autant de petits bouts de papier qu’il y a de cadeaux et les donner aux participants, ils indiqueront l’ordre, pour les plus disciplinés, cette étape est facultative
 - chaque joueur apporte un cadeau à moins de 20€
 
 
@@ -24,5 +24,5 @@ Workflow:
 Exceptions:
 -----------
 
-- on ne peut pas revoler de cadeau a une personne qui a déjà jouer pendant ce tour
+- on ne peut pas revoler de cadeau a une personne qui a déjà joué pendant ce tour
 - un cadeau ne peut être volé plus de 3 fois, une personne volant un cadeau pour la 3ème fois le garde définitivement
