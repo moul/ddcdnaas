@@ -1,6 +1,8 @@
 ddcdnaas
 ========
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/ddcdnaas.svg)](https://www.guardrails.io)
+
 Distribution-de-cadeaux-de-Noël As A Service
 
 
